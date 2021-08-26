@@ -1,0 +1,161 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\robot\RHF407开发板\RHF407开发例程\RHF407 Demo\RHF407 Demo_Fw1.0\RHF407 Demo.uvproj
+Project File Date:  08/11/2014
+
+<h2>Output:</h2>
+Build target 'RHF407 Demo'
+linking...
+Program Size: Code=17596 RO-data=2732 RW-data=60 ZI-data=1028  
+FromELF: creating hex file...
+".\Output\RHF407 Demo.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\robot\\RHF407开发板\\RHF407开发例程\\RHF407 Demo\\RHF407 Demo_Fw1.0\\Output\\RHF407 Demo.axf" 
+Set JLink Project File to "E:\robot\RHF407开发板\RHF407开发例程\RHF407 Demo\RHF407 Demo_Fw1.0\JLinkSettings.ini"
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90a, compiled Aug  8 2014 18:30:34
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 87878787 
+Feature(s) : RDI, FlashBP, FlashDL, JFlash, GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "E:\\robot\\RHF407开发板\\RHF407开发例程\\RHF407 Demo\\RHF407 Demo_Fw1.0\\Output\\RHF407 Demo.axf" 
+Load "E:\\robot\\RHF407开发板\\RHF407开发例程\\RHF407 Demo\\RHF407 Demo_Fw1.0\\Output\\RHF407 Demo.axf" 
+Set JLink Project File to "E:\robot\RHF407开发板\RHF407开发例程\RHF407 Demo\RHF407 Demo_Fw1.0\JLinkSettings.ini"
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90a, compiled Aug  8 2014 18:30:34
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 87878787 
+Feature(s) : RDI, FlashBP, FlashDL, JFlash, GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'RHF407 Demo'
+linking...
+Program Size: Code=17596 RO-data=2732 RW-data=60 ZI-data=1028  
+FromELF: creating hex file...
+".\Output\RHF407 Demo.axf" - 0 Errors, 0 Warning(s).
+Build target 'RHF407 Demo'
+linking...
+Program Size: Code=17596 RO-data=2732 RW-data=60 ZI-data=1028  
+FromELF: creating hex file...
+".\Output\RHF407 Demo.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\robot\\RHF407开发板\\RHF407开发例程\\RHF407 Demo\\RHF407 Demo_Fw1.0\\Output\\RHF407 Demo.axf" 
+Set JLink Project File to "E:\robot\RHF407开发板\RHF407开发例程\RHF407 Demo\RHF407 Demo_Fw1.0\JLinkSettings.ini"
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90a, compiled Aug  8 2014 18:30:34
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 87878787 
+Feature(s) : RDI, FlashBP, FlashDL, JFlash, GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "E:\\robot\\RHF407开发板\\RHF407开发例程\\RHF407 Demo\\RHF407 Demo_Fw1.0\\Output\\RHF407 Demo.axf" 
+Set JLink Project File to "E:\robot\RHF407开发板\RHF407开发例程\RHF407 Demo\RHF407 Demo_Fw1.0\JLinkSettings.ini"
+* JLink Info: Device "STM32F407VE" selected (512 KB flash, 128 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90a, compiled Aug  8 2014 18:30:34
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 87878787 
+Feature(s) : RDI, FlashBP, FlashDL, JFlash, GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found SWD-DP with ID 0x2BA01477
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F407VE
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
